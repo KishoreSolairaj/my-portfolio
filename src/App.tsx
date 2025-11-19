@@ -23,7 +23,7 @@ const Hero = () => {
             About Me
           </a>
           <a 
-            href="/assets/Kishore_Fullstack_Developer_Immediate.pdf" 
+            href="/my-portfolio/assets/Kishore_Fullstack_Developer_Immediate.pdf" 
             download="Kishore_S_Resume.pdf"
             className="bg-green-600 hover:bg-green-700 px-8 py-3 rounded-full font-semibold transition-all transform hover:scale-105 flex items-center justify-center gap-2"
           >
